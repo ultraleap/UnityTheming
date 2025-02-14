@@ -1,0 +1,38 @@
+{
+  "name": "com.ultraleap.uitheming",
+  "version": "0.1.0",
+  "description": "Ultraleap's Unity UI Theming package makes it easier to quickly modify colours and elements of your user interface.",
+  "displayName": "Ultraleap UI Theming",
+  "unity": "2020.3",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ultraleap",
+    "UI"
+  ],
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "documentationUrl": "https://docs.ultraleap.com/",
+  "author": {
+    "name": "Ultraleap",
+    "email": "contact@ultraleap.com",
+    "url": "https://www.ultraleap.com"
+  },
+  "samples": [
+    {
+      "displayName": "Ultraleap Dark Control Panel Theme",
+      "description": "",
+      "path": "Themes~/Ultraleap Dark Control Panel Theme~"
+    },
+	{
+      "displayName": "Ultraleap Colour Swatches",
+      "description": "",
+      "path": "Themes~/Colour Swatches~"
+    },
+	{
+      "displayName": "Ultraleap Dark Theme 24",
+      "description": "",
+      "path": "Themes~/Ultraleap Dark Theme 24~"
+    }
+  ]
+}

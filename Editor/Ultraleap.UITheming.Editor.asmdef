@@ -1,0 +1,18 @@
+{
+    "name": "Ultraleap.UITheming.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:524bbc83f3274934bb07dcdf53861d88"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 251fc57c0761ae94eb9fa83ce027cc28, type: 3}
+  m_Name: Ultraleap Dark Theme 24
+  m_EditorClassIdentifier: 
+  defaultFont: {fileID: 11400000, guid: a52e10cd664f2334f9eae20a1d839624, type: 2}
+  themes:
+  - {fileID: 11400000, guid: feab68939abe0ac4a92d0c6bfa23a80a, type: 2}
+  - {fileID: 11400000, guid: 979d87d6c8eab594b9938d26ef0d609b, type: 2}
+  - {fileID: 11400000, guid: 7d2e4eeca4349ff4e81263bff296e6d4, type: 2}
+  - {fileID: 11400000, guid: 9966b1ed7e2ac0449b9f684990f3e4fb, type: 2}
+  - {fileID: 11400000, guid: 879456293498e04418d7b3f4d71d0495, type: 2}
+  - {fileID: 11400000, guid: cdd81cec7de9fd646b048744db2c76f3, type: 2}

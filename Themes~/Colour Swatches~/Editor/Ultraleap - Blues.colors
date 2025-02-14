@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Ultraleap - Blues
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 
+    m_Color: {r: 0.93333334, g: 1, b: 0.99215686, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.7764706, g: 1, b: 0.9843137, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.5568628, g: 1, b: 0.972549, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.3019608, g: 0.9843137, b: 0.95686275, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.09803922, g: 0.9098039, b: 0.9019608, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.8039216, b: 0.80784315, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.62352943, b: 0.6431373, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.007843138, g: 0.49411765, b: 0.5137255, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.03137255, g: 0.38431373, b: 0.40392157, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.047058824, g: 0.32156864, b: 0.33333334, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.18431373, b: 0.20392157, a: 1}

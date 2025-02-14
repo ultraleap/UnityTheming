@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28010991c5d304f4a8d2e5d1937fadd6, type: 3}
+  m_Name: Slide Toggle
+  m_EditorClassIdentifier: 
+  elementName: Slide Toggle
+  graphicThemes: []
+  gradientThemes:
+  - name: Background
+    roundedCornersRadius: {x: 0, y: 0, z: 0, w: 0}
+    useRoundedCorners: 1
+    individualCorners: 0
+    copyHeightRound: 1
+    transitionTime: 0.2
+    gradientAngle: 0
+    normal:
+      _serialized: 1
+      basic: {r: 0.23921569, g: 0.23921569, b: 0.23921569, a: 1}
+      active: {r: 0, g: 0.92156863, b: 0.52156866, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      activeSecondary: {r: 0, g: 0.9215687, b: 0.52156866, a: 1}
+    hover:
+      _serialized: 1
+      basic: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      active: {r: 0, g: 0.9215687, b: 0.52156866, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      activeSecondary: {r: 0, g: 0.9215687, b: 0.52156866, a: 1}
+    pressed:
+      _serialized: 1
+      basic: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      active: {r: 0, g: 0.9215687, b: 0.52156866, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      activeSecondary: {r: 0, g: 0.9215687, b: 0.52156866, a: 1}
+    disabled:
+      _serialized: 1
+      basic: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      active: {r: 0, g: 0.9215687, b: 0.52156866, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      activeSecondary: {r: 0, g: 0.9215687, b: 0.52156866, a: 1}
+  - name: Handle
+    roundedCornersRadius: {x: 0, y: 0, z: 0, w: 0}
+    useRoundedCorners: 1
+    individualCorners: 0
+    copyHeightRound: 1
+    transitionTime: 0.2
+    gradientAngle: 0
+    normal:
+      _serialized: 1
+      basic: {r: 0.9647059, g: 0.9647059, b: 0.9647059, a: 1}
+      active: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      activeSecondary: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+    hover:
+      _serialized: 1
+      basic: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      active: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      activeSecondary: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+    pressed:
+      _serialized: 1
+      basic: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      active: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      activeSecondary: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+    disabled:
+      _serialized: 1
+      basic: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      active: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      activeSecondary: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+  textThemes: []
+  expandedSearch: 0

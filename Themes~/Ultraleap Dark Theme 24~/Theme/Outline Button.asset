@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28010991c5d304f4a8d2e5d1937fadd6, type: 3}
+  m_Name: Outline Button
+  m_EditorClassIdentifier: 
+  elementName: Outline Button
+  graphicThemes:
+  - name: Icon
+    roundedCornersRadius: {x: 25, y: 0, z: 0, w: 0}
+    useRoundedCorners: 0
+    individualCorners: 0
+    copyHeightRound: 0
+    transitionTime: 0.2
+    normal:
+      _serialized: 1
+      basic: {r: 0.90588236, g: 0.90588236, b: 0.90588236, a: 1}
+      active: {r: 0.9058824, g: 0.9058824, b: 0.9058824, a: 1}
+      scale: 1
+      activeScale: 1
+    hover:
+      _serialized: 1
+      basic: {r: 0.9058824, g: 0.9058824, b: 0.9058824, a: 1}
+      active: {r: 0.9058824, g: 0.9058824, b: 0.9058824, a: 1}
+      scale: 1
+      activeScale: 1
+    pressed:
+      _serialized: 1
+      basic: {r: 0.9058824, g: 0.9058824, b: 0.9058824, a: 1}
+      active: {r: 0.9058824, g: 0.9058824, b: 0.9058824, a: 1}
+      scale: 1
+      activeScale: 1
+    disabled:
+      _serialized: 1
+      basic: {r: 0.9058824, g: 0.9058824, b: 0.9058824, a: 1}
+      active: {r: 0.9058824, g: 0.9058824, b: 0.9058824, a: 1}
+      scale: 1
+      activeScale: 1
+  gradientThemes:
+  - name: Outline
+    roundedCornersRadius: {x: 30, y: 0, z: 0, w: 0}
+    useRoundedCorners: 1
+    individualCorners: 0
+    copyHeightRound: 0
+    transitionTime: 0.2
+    gradientAngle: 90
+    normal:
+      _serialized: 1
+      basic: {r: 0.23921569, g: 0.23921569, b: 0.23921569, a: 1}
+      active: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      activeSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+    hover:
+      _serialized: 1
+      basic: {r: 0.3647059, g: 0.3647059, b: 0.3647059, a: 1}
+      active: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.3647059, g: 0.3647059, b: 0.3647059, a: 1}
+      activeSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+    pressed:
+      _serialized: 1
+      basic: {r: 0.40784314, g: 0.16862746, b: 0.8509804, a: 1}
+      active: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      activeSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+    disabled:
+      _serialized: 1
+      basic: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      active: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      activeSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+  - name: Backdrop
+    roundedCornersRadius: {x: 35, y: 0, z: 0, w: 0}
+    useRoundedCorners: 1
+    individualCorners: 0
+    copyHeightRound: 0
+    transitionTime: 0.2
+    gradientAngle: 90
+    normal:
+      _serialized: 1
+      basic: {r: 0.23921569, g: 0.23921569, b: 0.23921569, a: 1}
+      active: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      activeSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+    hover:
+      _serialized: 1
+      basic: {r: 0.3647059, g: 0.3647059, b: 0.3647059, a: 1}
+      active: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.3647059, g: 0.3647059, b: 0.3647059, a: 1}
+      activeSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+    pressed:
+      _serialized: 1
+      basic: {r: 0.40784314, g: 0.16862746, b: 0.8509804, a: 1}
+      active: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      activeSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+    disabled:
+      _serialized: 1
+      basic: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      active: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+      scale: 1
+      activeScale: 1
+      basicSecondary: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      activeSecondary: {r: 0.40784317, g: 0.16862746, b: 0.85098046, a: 1}
+  textThemes:
+  - _serialized: 1
+    ignoreHover: 1
+    ignorePressed: 1
+    ignoreDisabled: 1
+    normal:
+      _serialized: 1
+      textColorBasic: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      textColorActive: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      fontSizes: {x: 16, y: 12, z: 16}
+    hover:
+      _serialized: 1
+      textColorBasic: {r: 0.2392157, g: 0.2392157, b: 0.2392157, a: 1}
+      textColorActive: {r: 0.96470594, g: 0.96470594, b: 0.96470594, a: 1}
+      fontSizes: {x: 16, y: 12, z: 16}
+    pressed:
+      _serialized: 1
+      textColorBasic: {r: 0.9647059, g: 0.9647059, b: 0.9647059, a: 1}
+      textColorActive: {r: 0.9647059, g: 0.9647059, b: 0.9647059, a: 1}
+      fontSizes: {x: 16, y: 12, z: 16}
+    disabled:
+      _serialized: 1
+      textColorBasic: {r: 0, g: 0, b: 0, a: 1}
+      textColorActive: {r: 0, g: 0, b: 0, a: 1}
+      fontSizes: {x: 16, y: 12, z: 16}
+    useDefaultFont: 1
+    font: {fileID: 0}
+    changeFontSizes: 0
+    useAutoFontSizes: 0
+    fontStyles: 0
+    changeTextAlignment: 0
+    textAlignment: 514
+    transitionTime: 0.2
+  expandedSearch: 0
